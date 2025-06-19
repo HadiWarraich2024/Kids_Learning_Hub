@@ -13,8 +13,8 @@ const learningData = {
     numbers: {
         items: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"],
         phrases: [
-            "One 1️⃣", "Two 2️⃣", "Three 3️⃣", "Four 4️⃣", "Five 5️⃣",
-            "Six 6️⃣", "Seven 7️⃣", "Eight 8️⃣", "Nine 9️⃣", "Ten 🔟",
+            "One", "Two", "Three", "Four", "Five",
+            "Six", "Seven", "Eight", "Nine", "Ten",
             "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen",
             "Sixteen", "Seventeen", "Eighteen", "Nineteen", "Twenty"
         ]
