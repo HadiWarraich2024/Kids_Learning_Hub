@@ -217,11 +217,12 @@ body {
     }
     
     .output {
-        font-size: 4rem;
+        font-size: 4.2rem;
     }
     
     .phrase {
-        font-size: 1.2rem;
+        font-size: 1.6rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     
     .controls button {
